@@ -1,0 +1,7 @@
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+C:\Users\user1\OneDrive\Escritorio\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
